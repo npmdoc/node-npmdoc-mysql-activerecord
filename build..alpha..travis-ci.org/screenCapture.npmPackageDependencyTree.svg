@@ -1,15 +1,17 @@
-<svg height="190" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="190" fill="#555" width="720"></rect>
+<svg height="222" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="222" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">2 megabytes</tspan>
-<tspan x="10" y="42">└─┬ mysql-activerecord@0.8.6 </tspan>
-<tspan x="10" y="58">  └─┬ mysql@2.5.2 </tspan>
-<tspan x="10" y="74">    ├── bignumber.js@1.4.1 </tspan>
-<tspan x="10" y="90">    ├─┬ readable-stream@1.1.14 </tspan>
-<tspan x="10" y="106">    │ ├── core-util-is@1.0.2 </tspan>
-<tspan x="10" y="122">    │ ├── inherits@2.0.3 </tspan>
-<tspan x="10" y="138">    │ ├── isarray@0.0.1 </tspan>
-<tspan x="10" y="154">    │ └── string_decoder@0.10.31 </tspan>
-<tspan x="10" y="170">    └── require-all@0.0.8</tspan>
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ mysql-activerecord@0.8.6 </tspan>
+<tspan x="10" y="90">  └─┬ mysql@2.5.2 </tspan>
+<tspan x="10" y="106">    ├── bignumber.js@1.4.1 </tspan>
+<tspan x="10" y="122">    ├─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="138">    │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="154">    │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="170">    │ ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="186">    │ └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="202">    └── require-all@0.0.8</tspan>
 </text>
 </svg>
